@@ -22,7 +22,8 @@ notebook
 
 ## Project Instructions
 
-This section should contain all the student deliverables for this project.
+The folder `article_recommendation_system` contains the notebook `Recommendations_with_IBM.ipynb` and als an HTML documenting 
+how different recommendation algorithms can be used to recommend articles to users on the IBM Watson Studio platform.
 
 
 ## License
